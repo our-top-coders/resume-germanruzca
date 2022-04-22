@@ -1,0 +1,151 @@
+#
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
+#
+
+sidebar:
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
+
+  # Profile information
+  name: Germán Ruiz # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: escudo.png # No modificar
+
+  # Actualiza tus datos de contacto
+  email: me.germanrc@gmail.com
+  phone:
+  website: www.germanruzca.social
+  linkedin: germanruzca
+  github: germanruzca
+  gitlab:
+  bitbucket:
+  twitter: '@germanruzca'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  languages:
+    - idiom: English
+      level: B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Team Work
+      link: # dejar en blanco
+
+    - item: Time Management
+      link: # dejar en blanco
+    
+    - item: Problem solving
+      link: # dejar en blanco
+
+    - item: Creativity
+      link: # dejar en blanco
+
+    - item: Self-Taught
+      link: # dejar en blanco
+
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    I am ready to learn every day. Trying to helping and teaching who needs. I enjoy working in team, sharing and listening to others, to implement the best solutions with ideas and thoughts.
+
+    I′m always looking for something new to do, immerse in new challenges. 
+
+    I started programming from the first semester of bachelor's degree, and when I discovered that, I have not stopped. In this moment I'm focus on the web development, and some of my goals is get a engineer title in a job, also, I would like to do some open source contributions
+
+    Some of my favorite things, is read new articles or books about any topic, listen to music and been fitness.
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Telematics Engineer
+    university: University of Colima
+    time: 2018 August - 2022 August
+    details: |
+      In four years, I've learning and applying new challenges and technolgies.
+      - Lead on school projects.
+      - Teamwork.
+      - Problem solving
+      - Obtain recognition for the best grade in the generation in four consecutive semesters.
+      - Group leader for five semesters
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+  - role: Program Intern (Ruby On Rails)
+    time: 2022 - Present
+    company: BrightCoders
+    details: |
+      In this program, I learned to resolve problems, and build web applications.
+      - Ruby and Ruby on Rails
+      - Best programming practices
+      - Agile project management and development
+      - Team work and collaboration
+      - Remote work culture
+
+  - role: Full Stack Developer
+    time: 2021 - Present
+    company: VolcanCode
+    details: |
+      - Develop back-end and front-end web applications.
+      - CRUD.
+      - Build components from the designs.
+
+      NodeJS, GraphQL, Sequelize, PostgresSQL, Git, ReactJS, Storybook
+
+
+  - role: Backend Developer (Social Service)
+    time: 2021
+    company: Secretaria de Salud Colima
+    details: |
+      - Develop and implement back-end technologies. 
+      - Build API REST.
+      - CRUD.
+
+      NodeJS, MySQL, Postman, Git, ReactJS
+
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+    - name: JavaScript
+      level: 60%
+
+    - name: Ruby
+      level: 50%
+    
+    - name: Ruby On Rails
+      level: 65%
+    
+    - name: PostgresSQL
+      level: 50%
+
+    - name: Git
+      level: 60%
+    
+    - name: HTML
+      level: 70%
+    
+    - name: CSS
+      level: 60%
+    
+    - name: Data Bases
+      level: 70%
+
+    - name: ReactJS
+      level: 40%
+
+# NO MODIFICAR
+footer: >
+  BrightCoders for a brighter future!
